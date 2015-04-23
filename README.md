@@ -1,4 +1,4 @@
-== README チュートリアル：サンプルアプリケーション
+# README チュートリアル：サンプルアプリケーション
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://railstutorial.jp/)
